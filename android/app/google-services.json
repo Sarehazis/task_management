@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041878665786",
+    "project_id": "task-management-bea4d",
+    "storage_bucket": "task-management-bea4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041878665786:android:5be4021f1ce0f5cdb68303",
+        "android_client_info": {
+          "package_name": "com.example.task_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyEL0FuV1YZaQJTdH4i_XYX8j2fL7w_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041878665786:android:73bf4a8a26241a1ab68303",
+        "android_client_info": {
+          "package_name": "com.example.task_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyEL0FuV1YZaQJTdH4i_XYX8j2fL7w_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
